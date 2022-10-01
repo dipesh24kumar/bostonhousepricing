@@ -3,3 +3,6 @@ sklearn
 pandas
 numpy
 matplotlib
+seaborn
+statsmodels
+
